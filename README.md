@@ -1,2 +1,2 @@
 # GIT_learn
-Learning GIT with EPAM
+Learning GIT with EPAM and we3schools
